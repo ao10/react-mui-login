@@ -1,3 +1,9 @@
+![Demo of React Material Component]
+(https://github.com/ao10/react-mui-login/blob/master/out.gif)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
