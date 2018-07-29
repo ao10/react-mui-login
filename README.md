@@ -1,10 +1,4 @@
-![Demo of React Material Component](https://github.com/ao10/react-mui-login/blob/master/out.gif)
-
-<img src="https://github.com/ao10/react-mui-login/blob/master/out.gif" width="40" height="40" />
-
-
-
-
+![Demo of React Material Component](https://github.com/ao10/react-mui-login/blob/master/out.gif)  
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
